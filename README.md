@@ -1,6 +1,6 @@
 # React Tutorial - Tic Tac Toe
 
-Sample app created from following the [Intro to React Tutorial][link-to-tutorial]
+Sample app created from following the [Intro to React Tutorial][link-to-tutorial].
 
 ## Install Dependencies
 
