@@ -8,7 +8,7 @@ Sample app created from following the [Intro to React Tutorial][link-to-tutorial
 npm install
 ```
 
-## Run in Development Mode
+## Development Mode
 
 ```shell
 npm start
@@ -16,10 +16,16 @@ npm start
 
 This should open http://localhost:3000 in your browser.
 
-## Formatting
+## Code Formatting
 
 ```shell
-make format
+npm run format
+```
+
+## Audit Dependencies
+
+```shell
+make audit
 ```
 
 [link-to-tutorial]: https://reactjs.org/tutorial/tutorial.html
